@@ -1,0 +1,12 @@
+--index-url https://pypi.python.org/simple/
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+chatette
+nlpaug
+numpy==1.19.1
+requests
+torch==1.6.0
+torchvision==0.6.1
+transformers
+
+-e .

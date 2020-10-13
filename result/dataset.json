@@ -1,1 +1,41 @@
-{"greet": ["Hello", "and", "et", "uf", "\u0964", "Hi", "fur", "\u0965", "h", "1et", "hello", "h", "un", "type", "\u0965", "hi", "6", "net", "\u0964", "the"], "restaurant_choice": ["Hello I'd like to eat italian cuisine today.", "hello me ' d like to appreciate italian coi8ine daily.", "hello i ' i have to learn ita1ian cuisine tuday.", "he1lo 8he ' d want tae eat italian cuisine tuday.", "apparently i ' d love my eat ita1ian cuisine tuday.", "Hello I'd like to eat italian cuisine.", "0ne wh0 ' d like and eat italian cuisine.", "he1lo i ' m like tu samp1e belgian cuisine.", "hello it ' d 1ike i eat western cuisine.", "nuw i ' d lire to like mediterranean cuisine.", "I'd like to eat mexican cuisine.", "i ' d like to have various coi8ine.", "we ' d like to eat mexican chicken.", "8he ' l like to eat mexican coi8ine.", "i ' d like tu eat that salmon."]}
+{
+  "greet": [
+    "Hello",
+    "\u0965",
+    "kefekence",
+    "et",
+    "a",
+    "Hi",
+    "and",
+    "a",
+    "...",
+    "e",
+    "hello",
+    "\u0964",
+    "\u0965",
+    "kefekence",
+    "\u0964",
+    "hi",
+    "pkuduct",
+    "defao1ted",
+    "fok",
+    "\u0965"
+  ],
+  "restaurant_choice": [
+    "Hi I'd like to eat italian cuisine today.",
+    "hi i ' d planned to get italian here today.",
+    "hi. .. ' d like to teach italian for today.",
+    "hi i ' ll like we eat classical cuisine today.",
+    "li ri ' d lire t0 eat oriental cuisine today.",
+    "I want to eat mexican cuisine today.",
+    "i wanted to leakn mexican coi8ine today.",
+    "i needed to eat mexican cuisine sometime.",
+    "i want i eat mexican fry today.",
+    "never want tu eat french cuisine tuday.",
+    "hi i'd like to eat italian cuisine today.",
+    "but i ' d need t0 eat more coi8ine today.",
+    "hi i ' d lire 9o take italian for today.",
+    "hi i ' d more definitely eat french cuisine today.",
+    "hi i ' ll love to eat mexican coi8ine today."
+  ]
+}
